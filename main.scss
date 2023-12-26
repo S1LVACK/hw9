@@ -1,0 +1,25 @@
+.frorm{
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh;
+        .fild{
+            width: 560px; 
+            border-radius: 10px; 
+            background-color: #2784ff; 
+            border: none;
+            #imp{
+                border-radius: 10px; 
+                border: none;
+            }
+            #imp2{
+                border-radius: 10px; 
+                border: none;
+            }
+            #imp2:hover{
+                opacity: 0.8;
+                transition: 0.80s;
+                
+            }
+        }
+}
